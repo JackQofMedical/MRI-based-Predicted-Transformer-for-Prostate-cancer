@@ -1,1 +1,1 @@
-conda activate MRI_PCa
+conda activate MRI-PCa
