@@ -1,1 +1,1 @@
-conda activate ML_learning
+conda activate MRI_PCa
